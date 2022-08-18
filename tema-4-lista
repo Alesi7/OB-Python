@@ -1,0 +1,5 @@
+for lista in range(0,100):
+    lista = range(0,100)
+    listaOrdenada = sorted(lista, reverse=True)
+    print(listaOrdenada)
+    break
